@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Dilmurod Bozorov
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Junior+Penetration+Tester;Cybersecurity+Enthusiast;Bug+Hunter;Always+Learning...)
 
 💻 Junior Penetration Tester | Cybersecurity Enthusiast  
 
