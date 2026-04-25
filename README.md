@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Dilmurod+Bozorov;Junior+Penetration+Tester;Cybersecurity+Enthusiast;Bug+Hunter;Always+Learning..." />
+</p>
 # 👋 Hi, I'm Dilmurod Bozorov
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Junior+Penetration+Tester;Cybersecurity+Enthusiast;Bug+Hunter;Always+Learning...)
 
