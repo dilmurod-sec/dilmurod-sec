@@ -42,7 +42,7 @@
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dilmurod-sec&theme=onedark&row=1&column=6) 
+![trophy](https://github-profile-trophy.vercel.app/?username=dilmurod-sec&theme=darkhub)
 
 ---
 ## 🐍 Contribution Snake
