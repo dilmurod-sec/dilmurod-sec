@@ -115,6 +115,22 @@
 <img src="https://img.shields.io/badge/Bug_Bounty-green?style=for-the-badge" />
 
 </p>
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="CC.png" width="400"/>
+  <img src="CRTA.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="HPTC.png" width="400"/>
+  <img src="Red-0 Fundamentals of Penetration Testing.png" width="400"/>
+</p>
+
+📎 Full Proof:
+👉 https://drive.google.com/your-link
 
 ## 🚨 Featured Writeups
 
