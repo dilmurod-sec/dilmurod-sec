@@ -149,7 +149,17 @@ I have completed **20+ vulnerable machines** on Vulnyx platform and created deta
 - 💻 Full-time Pentester  
 
 ---
+---
 
+## 📄 Resume
+
+<p align="center">
+  <a href="./Dilmurod_Bozorov_Penetration_Tester_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-00F7FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+  </a>
+</p>
+
+---
 ## 📫 Contact
 
 - 📧 Email: Dilmuroddilshodovic@gmail.com  
