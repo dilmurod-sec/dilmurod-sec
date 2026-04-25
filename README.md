@@ -103,6 +103,18 @@
 <img src="https://img.shields.io/badge/Post_Exploitation-5BC0BE?style=for-the-badge" />
 
 </p>
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Active_Directory_Attacks-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web_Penetration_Testing-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Privilege_Escalation-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bug_Bounty-green?style=for-the-badge" />
+
+</p>
 
 ## 🚨 Featured Writeups
 
