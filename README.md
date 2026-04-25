@@ -38,6 +38,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurod-sec&layout=compact&theme=tokyonight)
 
 ---
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dilmurod-sec&theme=onedark)
 
 ## 📫 Contact
 - Email: Dilmuroddilshodovic@gmail.com  
