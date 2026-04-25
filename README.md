@@ -51,17 +51,22 @@
 
 ---
 
-## ⚔️ Skills
+## ⚔️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge"/>
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python" /><br>
+
+<img src="https://skillicons.dev/icons?i=nginx,mysql,docker" /><br>
+
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hydra-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Netcat-grey?style=for-the-badge" />
+
+</p>
 
 ## 🚨 Featured Writeups
 
