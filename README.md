@@ -130,7 +130,7 @@
 </p>
 
 📎 Full Proof:
-👉 https://drive.google.com/your-link
+👉 [https://drive.google.com/your-link](https://drive.google.com/drive/folders/1Y04LPqHdvis4VD9QDAQu5aF02V82T9n7?usp=sharing)
 
 ## 🚨 Featured Writeups
 
