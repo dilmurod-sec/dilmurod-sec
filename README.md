@@ -18,7 +18,11 @@
 - Network: Nmap, Enumeration  
 - OS: Linux Privilege Escalation  
 - Tools: Burp Suite, Metasploit, Gobuster  
-
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
 ---
 
 ## 📂 Projects
