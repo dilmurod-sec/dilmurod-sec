@@ -103,7 +103,7 @@
 <img src="https://img.shields.io/badge/Post_Exploitation-5BC0BE?style=for-the-badge" />
 
 </p>
----
+
 
 ## 🧠 Currently Learning
 
@@ -115,7 +115,7 @@
 <img src="https://img.shields.io/badge/Bug_Bounty-green?style=for-the-badge" />
 
 </p>
----
+
 
 ## 🏆 Certifications
 
