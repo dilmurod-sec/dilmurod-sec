@@ -51,20 +51,56 @@
 
 ---
 
-## ⚔️ Skills & Tools
+## ⚔️ Offensive Security Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python" /><br>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python" />
 
-<img src="https://skillicons.dev/icons?i=nginx,mysql,docker" /><br>
+</p>
 
-<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge" />
+---
+
+## 🧠 Web Exploitation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/XSS-ff0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL_Injection-ff0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LFI-ff0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RCE-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/File_Upload-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Brute_Force-yellow?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🛠️ Tools Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite" />
 <img src="https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hydra-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Netcat-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🧬 Methodology
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Reconnaissance-0A192F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Enumeration-112240?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Exploitation-233554?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Privilege_Escalation-3A506B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Post_Exploitation-5BC0BE?style=for-the-badge" />
 
 </p>
 
