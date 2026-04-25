@@ -67,9 +67,8 @@
 
 I have completed **20+ vulnerable machines** on Vulnyx platform and created detailed penetration testing reports.
 
-📂 Full Reports Collection:  
-👉 https://gratis-diagnostic-8e1.notion.site/Vulnyx-29aa8f5be51e80cfb302e75bbc26ca03
-
+📂 **Full Reports Collection:**  
+🔗 [View All Vulnyx Reports](https://gratis-diagnostic-8e1.notion.site/Vulnyx-29aa8f5be51e80cfb302e75bbc26ca03)
 ✔ Includes:
 - 🔍 Reconnaissance & Enumeration  
 - 💥 Exploitation (LFI, RCE, Brute Force, etc.)  
