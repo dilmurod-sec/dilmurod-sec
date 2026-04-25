@@ -33,14 +33,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmurod-sec&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurod-sec&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilmurod-sec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurod-sec&layout=compact&theme=tokyonight" />
+</p>
 
 ---
+
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dilmurod-sec&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=dilmurod-sec&theme=onedark&row=1&column=6)
+
+---
 
 ## 📫 Contact
 - Email: Dilmuroddilshodovic@gmail.com  
