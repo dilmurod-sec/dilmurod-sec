@@ -45,6 +45,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=dilmurod-sec&theme=onedark&row=1&column=6) 
 
 ---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/dilmurod-sec/dilmurod-sec/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contact
 - Email: Dilmuroddilshodovic@gmail.com  
