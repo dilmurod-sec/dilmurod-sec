@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+I'm+Dilmurod+Bozorov;Junior+Penetration+Tester;Cybersecurity+Enthusiast;Bug+Hunter;Always+Learning..." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Dilmurod%20Bozorov&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Junior+Penetration+Tester;Cybersecurity+Enthusiast;Bug+Hunter;Always+Learning..." />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">👨‍💻 Dilmurod Bozorov</h1>
@@ -12,24 +16,28 @@
 💻 Junior Penetration Tester | Cybersecurity Enthusiast
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilmurod-sec&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 💀 Terminal
+## 💻 Live Terminal
 
-    > whoami
-    Dilmurod Bozorov
+    root@kali:~# whoami
+    dilmurod
 
-    > role
+    root@kali:~# role
     Junior Penetration Tester
 
-    > skills
+    root@kali:~# skills
     XSS | SQL Injection | LFI | Privilege Escalation
 
-    > tools
+    root@kali:~# tools
     Burp Suite | Nmap | Metasploit | Gobuster
 
-    > status
-    Learning... Exploiting... Growing...
+    root@kali:~# status
+    Hunting bugs... Exploiting... Learning...
 
 ---
 
@@ -55,6 +63,48 @@
 
 ---
 
+## 🚨 Featured Writeups
+
+I have completed **20+ vulnerable machines** on Vulnyx platform and created detailed penetration testing reports.
+
+📂 Full Reports Collection:  
+👉 https://gratis-diagnostic-8e1.notion.site/Vulnyx-29aa8f5be51e80cfb302e75bbc26ca03
+
+✔ Includes:
+- 🔍 Reconnaissance & Enumeration  
+- 💥 Exploitation (LFI, RCE, Brute Force, etc.)  
+- 🔐 Privilege Escalation  
+- 📄 Professional Reporting  
+
+---
+
+### 🧪 Vulnyx - Ready
+- 🔍 Enumeration  
+- 💥 Exploitation  
+- 🔐 Privilege Escalation  
+
+📎 Report: https://gratis-diagnostic-8e1.notion.site/READY-Easy-299a8f5be51e8063b6fbda24bfc388a7  
+
+---
+
+### 🧪 Vulnyx - Explorer
+- 🔍 Recon  
+- 💥 Exploitation  
+- 🔐 Root Access  
+
+📎 Report: https://gratis-diagnostic-8e1.notion.site/Explorer-29aa8f5be51e8041be0dc4cd91e6d070  
+
+---
+
+### 🧪 Vulnyx - Apex
+- 🔍 Enumeration  
+- 💥 Exploitation  
+- 🔐 Privilege Escalation  
+
+📎 Report: https://gratis-diagnostic-8e1.notion.site/Apex-2a2a8f5be51e8055956cdd3c947dfbbe  
+
+---
+
 ## 📂 Projects
 
 - 🔗 Pentest Reports: https://github.com/dilmurod-sec/pentest-reports  
@@ -71,6 +121,14 @@
 
 ---
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dilmurod-sec&theme=tokyonight" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
@@ -82,6 +140,14 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/dilmurod-sec/dilmurod-sec/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Goals
+
+- 🧠 OSCP (in progress)  
+- 🛡️ Bug Bounty Hunter  
+- 💻 Full-time Pentester  
 
 ---
 
